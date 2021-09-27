@@ -7,7 +7,7 @@ pip install fastapi, uvicorn[standard]
 
 ## Run
 ```
-uvicorn payanam_launch:app --reload
+uvicorn fastapi_launch:app --reload
 ```
 
 Will start application on port 8000, http://localhost:8000/
